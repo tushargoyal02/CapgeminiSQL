@@ -1,0 +1,20 @@
+
+1 You need to create a view in oracle with the name as Employee_details   [10 Marks]
+    - You need to select the employee_ID, first_name,salary ,last_name column but with last_name "MR" should be prefixed with the values
+    -  Also Take department_name from departments table & if no department_name is present print out "HR" in place of NULL value
+    - Do the join on employees & departments table as inner join
+    - Select all the rows from the employees table in case any value matches in the join condition or not
+
+2. Create a view again by taking the Employee table and the column as first_name, last_name, salary & department_id.
+	- NOTE: You should not be able to perform any DML operation on the view like delete, insert or update statement   [10 marks]
+
+3. Select the Employee_id, first_name & last_name together seprated by space as Fullname    [15 marks]
+	- Also select the department_name & city from the departments & Locations table respectively
+	- Make sure to get all the details of employee
+	- Perform the above question with the help of joins
+
+4. Create a shell script program to find out the particular word is present inside a string or not   [15 marks]
+	- Take the string from user
+	- Also take input from the user to search in the string
+	- Print a message ("Words matching") in case the word is found to be present in string
+		Or print a message "Try later" in case no word is found

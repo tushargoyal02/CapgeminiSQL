@@ -1,0 +1,84 @@
+Q1 to take the input from the user -
+	input the user is giving its should have a letter from A toZ   & atleast 1 number from 0-9
+	 and in case the data doesn't match up so print "Kindly give correct input"
+	- one character from a to z
+	- one special character from $#@
+	- maximum length can go is 15 characters
+	- min length should be 3 characters
+
+Q2.	*      Print this patter with the help of the loop   z,zz, zzz,zzzz
+	**
+	***
+	****
+	*****
+	******
+
+
+Q3
+	     *
+	    ***
+	   *****
+	  *******
+	 *********
+	***********
+
+Q4 You have to check the string is pallandrome or not  NAMAN
+	[Hint: pallandrome are the which are same on reading it from starting or end]
+
+
+Q5 Adding multiple element in the list but as an element
+
+
+Q6 len(list), max, min, extend
+
+
+
+Q7       
+
+		*
+		**
+		***
+		****
+
+		*****
+		 ****
+		  ***
+		   **
+		    *
+
+	--------------------
+4 time for loop
+	*
+	* *
+	* * *
+	* * * *
+	* * *
+	* *
+	*
+
+
+-----------------------
+
+      *
+    * *
+  * * *
+* * * *	
+
+
+Q8 : You need to take the two number from the user and then try to find:
+	- LCM & GCF of these
+
+	- 6,12
+	2*3   2*2*3     => 2*3*2  = 12
+	
+	- 7, 15
+	7   3*5   = 7*3*5  =
+
+Q9 Try to solve any 2 program from your code book but save their output into the file
+	with the name lab1.py, lab2.py using file handling in python
+
+
+
+
+
+	
